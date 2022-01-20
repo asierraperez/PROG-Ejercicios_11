@@ -1,0 +1,5 @@
+function heroe() {
+    class heroe {
+
+    }
+}

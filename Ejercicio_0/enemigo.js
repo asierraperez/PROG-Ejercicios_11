@@ -1,0 +1,6 @@
+function enemigo() {
+    class enemigo {
+
+    }
+
+}
